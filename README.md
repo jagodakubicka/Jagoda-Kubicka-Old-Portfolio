@@ -1,4 +1,4 @@
-# STUDIO ADAGIO - Ballet Dancing School
+# Jagoda Kubicka
 
 ![Design preview for the Personal portfolio](./images/screenshot.png)
 
