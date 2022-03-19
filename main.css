@@ -245,7 +245,7 @@ header {
   }
 }
 @media (max-width: 600px) {
-  .sakura-img-container {
+  .sakura-mobile {
     display: none;
   }
 }
