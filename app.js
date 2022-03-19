@@ -1,6 +1,6 @@
 //scrollReveal
 ScrollReveal({
-  reset: true,
+  reset: false,
   distance: '60px',
   duration: 2500,
   delay: 400,
@@ -9,13 +9,13 @@ ScrollReveal({
 ScrollReveal().reveal('.page-section-title', {
   delay: 100,
   origin: 'left',
-  mobile: false,
+  mobile: true,
 });
 ScrollReveal().reveal(
   '.about-me-container, .project-item-container, .contact-container',
   {
     delay: 200,
-    mobile: false,
+    mobile: true,
   }
 );
 
