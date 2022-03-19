@@ -574,8 +574,7 @@ footer {
   letter-spacing: 2px;
   padding: 0.5em;
 }
-.personal-info-container {
-}
+
 .personal-info-data {
   display: flex;
   flex-direction: column;
@@ -592,8 +591,7 @@ footer {
 .personal-info-data > a:hover {
   color: var(--hover-elements);
 }
-.personal-info-data > i {
-}
+
 .tech-stack-container {
   grid-column-start: 2;
   grid-column-end: 4;
@@ -646,8 +644,7 @@ footer {
   color: var(--hover-text);
   margin-left: 10px;
 }
-.interests-container {
-}
+
 .interests-items {
   padding: 0.5em;
   font-size: 40px;
