@@ -128,6 +128,7 @@ header {
 .fa-solid {
   color: var(--hover-text);
   font-size: 30px;
+  transition: .4s ease;
 }
 .fa-brands:hover,
 .fa-solid:hover {
@@ -406,12 +407,13 @@ header {
   text-decoration: none;
   color: var(--background-color);
   background-color: var(--hover-elements);
-
   border-radius: 15px;
   margin: 5px;
   padding: 15px;
   text-transform: uppercase;
   letter-spacing: 2px;
+  transition: .4s ease;
+
 }
 .project-item-links > a:hover {
   transform: scale(1.02);
